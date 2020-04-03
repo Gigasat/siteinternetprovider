@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    border: none;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;;
+}
+
+.white{
+    color: #ffffff !important;
+}
+
+.border_ten_pixels_radius{
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+.border_five_pixels_radius {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.display_none{
+    display: none !important;
+}
+
+.page_title {
+    width: 100%;
+    background-color: #272c39;
+    border-top: solid 0.5px #3b3b3b;
+    margin-bottom: 60px;
+    background-image: url("../_img/bg_top.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
